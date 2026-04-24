@@ -188,6 +188,11 @@ soroban contract invoke --id <CONTRACT_ID> \
 
 ---
 
-## License
+Wallet Address: GAZFIX54Y4UEB76JT4QQJPAPJMIAM6E25MH3742UG3ADSTZVMFJ6AEBQ
 
-MIT — see `LICENSE` for details.
+Contract Address: CBLWA4TJ3VRSLLICH656FTSSVRYJBICIGRAPQ54T2BQNZGTJ2MKBUBTH
+
+https://stellar.expert/explorer/testnet/contract/CBLWA4TJ3VRSLLICH656FTSSVRYJBICIGRAPQ54T2BQNZGTJ2MKBUBTH
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15c1ec13-3e1c-4f82-a77c-017af990c02a" />
+
